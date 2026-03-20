@@ -5,7 +5,7 @@
 
 **CYBER ARENA** — это динамичный 2D-шутер в стиле киберпанк, где вы управляете роботом-защитником, сражающимся с полчищами цифровых вирусов. Игра не разделена на уровни — вас ждет бесконечный режим на выживание с нарастающей сложностью. Каждые 30 секунд начинается новая волна атак. Сможете ли вы защитить систему?
 
-![Главное меню](<img width="1281" height="751" alt="Снимок экрана 2026-03-20 214538" src="https://github.com/user-attachments/assets/0a7c61d9-8b43-4728-918a-157721e519bf" />)
+<img width="1281" height="751" alt="Главное меню" src="https://github.com/user-attachments/assets/0a7c61d9-8b43-4728-918a-157721e519bf" />
 
 
 ---
@@ -20,9 +20,9 @@
 - **Враги:** процедурно генерируются с каждой новой волной.
 - **Очки:** Уничтожайте вирусы, чтобы набирать очки и устанавливать личные рекорды.
 
-![Геймплей](<img width="1285" height="753" alt="Снимок экрана 2026-03-20 214636" src="https://github.com/user-attachments/assets/9da9955a-9368-468a-8537-9e7f82c84de2" />)
+<img width="1285" height="753" alt="Геймплей" src="https://github.com/user-attachments/assets/9da9955a-9368-468a-8537-9e7f82c84de2" />
 
-![Проигрыш](<img width="1284" height="752" alt="Снимок экрана 2026-03-20 214805" src="https://github.com/user-attachments/assets/1e6a5c89-0987-408b-8cc1-ed6329a50d16" />)
+<img width="1284" height="752" alt="Проигрыш" src="https://github.com/user-attachments/assets/1e6a5c89-0987-408b-8cc1-ed6329a50d16" />
 
 ---
 
@@ -32,7 +32,7 @@
 
 *В будущем будут добавлены другие пункты*
 
-![Меню настроек](<img width="1283" height="753" alt="Снимок экрана 2026-03-20 214657" src="https://github.com/user-attachments/assets/a408bf79-faf2-48c5-8ed4-7ea6499a21cb" />)
+<img width="1283" height="753" alt="Меню настроек" src="https://github.com/user-attachments/assets/a408bf79-faf2-48c5-8ed4-7ea6499a21cb" />
 
 ---
 
