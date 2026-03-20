@@ -89,7 +89,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/
+git clone https://github.com/codewrsasha/CYBER_ARENA
 
 (Убедитесь что у вас установлена актуальная версия Pygame)
 
