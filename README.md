@@ -104,3 +104,7 @@ cd CYBER_ARENA ver. (актуальная версия)
 
 # Запусти игру
 python main.py
+
+```
+![instruction720](https://github.com/user-attachments/assets/7033f6d7-9598-4ab3-adfa-c8fe15828e2c)
+
