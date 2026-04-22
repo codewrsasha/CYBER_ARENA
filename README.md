@@ -1,4 +1,4 @@
-<img width="64" height="64" alt="health_small" src="https://github.com/user-attachments/assets/fc91c01e-e49c-4989-aaef-b56172dae9bf" /># 🔥 CYBER ARENA: VIRUS ATTACK
+# 🔥 CYBER ARENA: VIRUS ATTACK
 
 **Киберпанк-шутер с процедурной генерацией врагов, системой волн и глубокой статистикой**
 
