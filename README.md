@@ -1,4 +1,4 @@
-# 🔥 CYBER ARENA: VIRUS ATTACK
+# 🔥 CYBER ARENA: VIRUS PROTOCOL
 
 **Киберпанк-шутер с процедурной генерацией врагов, системой волн и глубокой статистикой**
 
