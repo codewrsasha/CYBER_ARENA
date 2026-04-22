@@ -1,0 +1,13 @@
+{
+    "max_wave": 0,
+    "max_score": 0,
+    "max_kills_per_session": 0,
+    "total_kills": 0,
+    "kills_trojan": 0,
+    "kills_worm": 0,
+    "kills_ransomware": 0,
+    "damage_standard": 0,
+    "damage_rapid": 0,
+    "damage_shotgun": 0,
+    "damage_laser": 0
+}
